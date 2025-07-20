@@ -219,7 +219,7 @@ class WelcomeWindow extends JFrame {
     }
     
     private void initializeGUI() {
-        setTitle("Employee Payroll Management System - Welcome");
+        setTitle("Welcome");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
         
